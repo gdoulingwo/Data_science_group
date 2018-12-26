@@ -1,0 +1,16 @@
+>
+流畅
+#增加多一种优化引擎，添加测试代码
+#..
+
+韦麟
+#改进最短路径算法
+
+张贤
+#提交tensorflow推荐的说明文档
+>12.28前完成
+
+>
+全员
+#借用github，搭建自己的个人博客，参考博客：http://www.cnblogs.com/liuxianan/p/build-blog-website-by-hexo-github.html
+>1.20前完成

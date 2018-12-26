@@ -1,0 +1,16 @@
+>
+全员
+#阅读julia的文档：http://docs.juliacn.com/latest/manual/documentation/,并编写一下程序
+
+家杰
+#图论算法，最短路径
+
+韦麟
+#单链表以及双链表
+
+张贤
+#最小二乘
+
+韦麟
+#kmeans
+>2.5号前完成
